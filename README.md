@@ -4,7 +4,7 @@ This lab demonstrates provisioning **Active Directory Domain Services (AD DS)** 
 
 ---
 
-## 0️⃣ Prerequisites
+## Prerequisites
 - AWS Account
 - macOS device (lab done from Mac)
 - Microsoft Remote Desktop installed
