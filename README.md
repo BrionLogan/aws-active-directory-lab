@@ -32,7 +32,7 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
 - Connected via **Microsoft Remote Desktop** from Mac.
 
 **📸 Screenshot:**  
-![RDP Desktop](<img width="1819" height="1072" alt="Image" src="https://github.com/user-attachments/assets/edc7bb6e-76ab-48e4-8c68-16c8b7ca1475" />)
+![RDP Desktop]<img width="1819" height="1072" alt="Image" src="https://github.com/user-attachments/assets/edc7bb6e-76ab-48e4-8c68-16c8b7ca1475" />
 
 ---
 
@@ -42,7 +42,7 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
   - Accepted required features.
 
 **📸 Screenshot:**  
-![AD DS Role Selected](<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/45822fea-e631-4d18-944c-ac48ecf03248" />)
+![AD DS Role Selected]<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/45822fea-e631-4d18-944c-ac48ecf03248" />
 
 ---
 
@@ -59,7 +59,7 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
 - Confirmed domain in **Server Manager → Local Server**.
 
 **📸 Screenshot:**  
-![Domain Confirmed](<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c69d8f98-e9ab-4952-b861-f75e06e5eaa3" />)
+![Domain Confirmed]<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c69d8f98-e9ab-4952-b861-f75e06e5eaa3" />
 
 ---
 
@@ -70,7 +70,7 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
 - Added 2 test users: `jdoe`, `jsmith`.
 
 **📸 Screenshot:**   
-![ADUC Users](<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/878dd790-660e-4d95-a18b-c6d943f1efb0" />)
+![ADUC Users]<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/878dd790-660e-4d95-a18b-c6d943f1efb0" />
 
 ---
 
@@ -78,8 +78,8 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
 - Verified in **System → About** that the machine is part of `mylab.local`.
 
 **📸 Screenshot:**  
-![System About](<img width="400" height="473" alt="Image" src="https://github.com/user-attachments/assets/e2cc1f26-adee-42b2-afcb-eee5cbaedc1f" />)  
-![Local Server Domain](<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/a4a58859-3aa7-417d-953b-258a2ca7644c" />)
+![System About]<img width="400" height="473" alt="Image" src="https://github.com/user-attachments/assets/e2cc1f26-adee-42b2-afcb-eee5cbaedc1f" />  
+![Local Server Domain]<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/a4a58859-3aa7-417d-953b-258a2ca7644c" />
 
 ---
 
