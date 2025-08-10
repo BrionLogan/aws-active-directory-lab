@@ -79,7 +79,11 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
 
 **📸 Screenshot:**  
 [System About]
+
 <img width="400" height="473" alt="Image" src="https://github.com/user-attachments/assets/e2cc1f26-adee-42b2-afcb-eee5cbaedc1f" />  
+
+
+
 
 [Local Server Domain]<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/a4a58859-3aa7-417d-953b-258a2ca7644c" />
 
