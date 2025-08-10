@@ -90,7 +90,7 @@ Defaults speed up deployment, reduce configuration complexity, and avoid misconf
 
 
 
-[Local Server Domain]<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/a4a58859-3aa7-417d-953b-258a2ca7644c" />
+[Local Server Domain]<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/f6f67e4f-cf37-49f2-b904-208b6f5142cc" />
 
 ---
 
