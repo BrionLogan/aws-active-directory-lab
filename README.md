@@ -22,7 +22,7 @@ This lab demonstrates provisioning **Active Directory Domain Services (AD DS)** 
 Defaults speed up deployment, reduce configuration complexity, and avoid misconfiguring networking for a single-server lab.
 
 **📸 Screenshot:**  
-![EC2 Running](<img width="1851" height="1172" alt="Image" src="https://github.com/user-attachments/assets/d00e8934-d07a-4fcd-bc3c-e3076d4b7314" />)
+![EC2 Running]<img width="1851" height="1172" alt="Image" src="https://github.com/user-attachments/assets/d00e8934-d07a-4fcd-bc3c-e3076d4b7314" />
 
 ---
 
